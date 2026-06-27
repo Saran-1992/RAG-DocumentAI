@@ -101,29 +101,12 @@ Instead of relying solely on a Large Language Model, the application uses a **Re
 
 ---
 
-# 📁 Project Structure
-
-```
-DocuChat-AI/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── assets/
-│
-├── uploads/
-│
-└── chroma_db/
-```
-
----
-
 # ⚙️ Installation
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/DocuChat-AI.git
+git clone https://github.com/Saran-1992/RAG-DocumentAI.git
 ```
 
 ```bash
